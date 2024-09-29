@@ -12,9 +12,18 @@ header{
     height: 50px;
 }
 
-
 body{
     background-color: rgb(219, 215, 215);
+}
+#button{
+    background-color: white;
+    font-size: 18px;
+    color: gray;
+    border-radius: 10px;
+
+}
+#search{
+    background-color: #009270;
 }
 
 #card1{
@@ -61,4 +70,4 @@ img{
 }
 
 
-
+ 
